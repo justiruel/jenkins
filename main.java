@@ -1,7 +1,7 @@
 public class main{
 	public static void main (String[] args){
 		System.out.println("coba");
-		System.out.println("jenkins");
+		System.out.println("hmmm");
 		
 	}
 }
